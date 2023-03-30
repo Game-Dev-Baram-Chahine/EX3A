@@ -30,5 +30,5 @@ public class Oscillator : MonoBehaviour
         // Update the x position based on the starting position
         transform.position = new Vector3(startPositionX + x, transform.position.y, transform.position.z);
     }
-    
+
 }
